@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Meu nome é Thaissa, ou "thailim"! Estudo Ciência da Computação na Descomplica e estou em fase de exploração na área da tecnologia. Faço cursos na Alura e me aventuro por diferentes linguagens e projetos, aprendendo no meu ritmo e entendendo o que mais me encanta. No momento, trabalho como costureira, mas meu objetivo é entrar no mercado de tech. Desde pequena, sou apaixonada por jogos e tudo ligado à tecnologia, e agora é hora de construir meu próprio caminho nesse universo 
+  Olá! Meu nome é Thaissa, ou "thailim"! Estudo Ciência da Computação na Faculdade Descomplica e faço cursos na Alura. No momento, trabalho como costureira, mas meu objetivo é atuar na área de tecnologia. Desde pequena, sou apaixonada por jogos e tudo que envolve esse universo, o que despertou meu interesse por tecnologia e programação.
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML, CSS, JAVASCRIPT
+  🦄 Linguagens: HTML, CSS, JAVASCRIPT, PYTHON
 </p>
 
 <p align="left">
